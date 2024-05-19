@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Geolocation by IP</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Your Location</h1>
+    <p id="location-info">Loading...</p>
+    <a id="google-maps-link" target="_blank">Open in Google Maps</a>
+  </div>
+
+  <script src="index.js"></script>
+</body>
+</html>
